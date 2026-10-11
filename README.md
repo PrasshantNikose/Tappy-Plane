@@ -2,7 +2,7 @@
 
 A fast, one-tap arcade flyer that runs in any browser — no install, no build step, no dependencies. Tap to climb, dodge the rocks, grab the stars, and see how far you can fly.
 
-**[▶ Play it live](https://YOUR-USERNAME.github.io/YOUR-REPO/)** *(replace with your GitHub Pages link)*
+**[▶ Play it live](https://prasshantnikose.github.io/Tappy-Plane/)** *(replace with your GitHub Pages link)*
 
 
 ## About
